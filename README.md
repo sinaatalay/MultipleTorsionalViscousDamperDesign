@@ -1,4 +1,4 @@
-# Multiple Torsional Viscous Damper Design
+# Multiple Torsional Viscous Damper Design [![License](https://img.shields.io/github/license/sinaatalay/MultipleTorsionalViscousDamperDesign.svg)](https://github.com/sinaatalay/MultipleTorsionalViscousDamperDesign/blob/main/LICENSE)
 This repository contains a project for [Bogazici University Mechanical Engineering Department](https://www.me.boun.edu.tr/)'s **Mechanical Vibrations** (ME 425) class. My teammates and I solved and optimized the system shown below.
 
 **Team Members:** Sina Atalay, Cem Geçgel, Mustafa Çağatay Sipahioğlu
